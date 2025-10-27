@@ -1,0 +1,22 @@
+body{
+    font-family: gorgia, serif;
+    background-color: aqua;
+    text-align: justify;
+   }
+   h1{
+     color: #00008b;
+     text-align: left;
+     font-size: 60;
+     font-family: Comic sans Ms;
+   }
+   h4{
+     text-align: right;
+     font-style: italic;
+   }
+   .p1{
+    color: orange;
+    text-align: center;
+   }
+   .nama {
+        color: white;
+    }
